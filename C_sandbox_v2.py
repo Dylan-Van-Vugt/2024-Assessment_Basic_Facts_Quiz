@@ -1,14 +1,5 @@
 import random
 
-# def int_check(question):
-
-    # while True:
-        # error = "Please enter an integer"
-
-        # try:
-          #   response = int(input(question))
-
-
 
 # Variables
 a = 0
@@ -40,7 +31,7 @@ action_2 = '-'
 action_3 = '*'
 action_4 = '/'
 
-# List
+# Lists
 action_list_1 = [action_1, action_2, action_3, action_4]
 action_list_2 = [action_1, action_2, action_3, action_4]
 
